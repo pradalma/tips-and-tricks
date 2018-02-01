@@ -1,0 +1,4 @@
+# tips-and-tricks
+
+Look for modules
+module -r spider '*.openmpi.*'
