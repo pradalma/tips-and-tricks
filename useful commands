@@ -2,3 +2,6 @@
 
 Look for modules
 module -r spider '*.openmpi.*'
+
+shade H,lon_rho,lat_rho
+
