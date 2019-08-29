@@ -1,5 +1,9 @@
 # tips-and-tricks
-
+FERRET
+-----------------------------------------------------------------------
+Save file
+gksm2ps -o sst_trans_noncorr_24sm.ps -l cps -p portrait metafile.plt
+-----------------------------------------------------------------------
 NCO NCRA on datascope: 
 
 Hi Marie,
@@ -12,3 +16,4 @@ export LD_LIBRARY_PATH=/usr/lib64/compat-openmpi/lib
 Let us know if you need anything else.
 
 Thanks
+-------------------------------------------------------------------------
